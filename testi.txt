@@ -7,3 +7,5 @@ T6 Muutos vko5
 VKO5 muutos haara1
 
 vko 5 muutos 2 haara
+
+vko5 t8 haara2
