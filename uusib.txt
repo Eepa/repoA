@@ -3,3 +3,5 @@ uusi tiedosto b:hen
 toinen branchmuutos
 
 muutos 2 haara
+
+muutos 1 master t8
